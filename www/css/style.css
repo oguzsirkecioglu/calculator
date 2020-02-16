@@ -1,0 +1,29 @@
+/* Empty. Add your own CSS if you like */
+
+.sonuc{
+	    text-align: right;
+    font-size: 40px;
+    padding: 25px;
+
+}
+.yuvarla{
+border-radius: 45px;
+    width: 80px;
+    height: 80px;
+    font-size: 43px;
+    border: 1px solid #fff !important
+}
+
+.yuvarla_sifir{
+border-radius: 45px;
+    width: 164px;
+    height: 80px;
+    font-size: 43px;
+    border: 1px solid #fff !important;
+    text-align: left;
+    padding-left: 26px;
+}
+
+.kaldir{
+	padding-bottom: 7px;
+}
